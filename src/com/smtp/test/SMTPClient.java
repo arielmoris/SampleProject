@@ -7,6 +7,8 @@ import java.net.Socket;
 import java.net.UnknownHostException;
 
 public class SMTPClient {
+	
+	//Just putting this here
 	public static void main(String args[]){
 		Socket socket = null;
 		DataOutputStream os = null;
